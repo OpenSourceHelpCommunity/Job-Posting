@@ -27,3 +27,6 @@ During the internship you would be handling the social media channels. Raise a t
 - Timezone
 - Any social media channels handled
 - Availability
+
+
+Please create a ticket if you have any questions or tweet at @tapaswenipathak.
